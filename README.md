@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=duanqz&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+I'm duanqz, a software engineer.
+I'm working on Android over 10 years.
+I'm also developing with python, javascript, php ...
+I'm currently learning dart
+
 <!--
 **duanqz/duanqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

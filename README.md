@@ -8,7 +8,7 @@ I'm working on Android over 10 years.
 
 I'm also developing with python, javascript, php ...
 
-I'm currently learning dart
+I'm currently learning dart.
 
 <!--
 **duanqz/duanqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
